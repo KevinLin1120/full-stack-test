@@ -1,5 +1,5 @@
-let API = "/aicam/gpt/img";
-let API_txt = "/aicam/gpt/txt";
+let API = "https://backend-test-rpcv.onrender.com/aicam/gpt/img";
+let API_txt = "https://backend-test-rpcv.onrender.com/aicam/gpt/txt";
 let uploadImg = null;
 let responseData = null;
 
